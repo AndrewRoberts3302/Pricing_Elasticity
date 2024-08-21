@@ -1,0 +1,58 @@
+ot_sl2_novellus,ot_quality_model,cuk_segmentation
+Holiday/Caravan Park,Bronze,Leisure
+Holiday/Caravan Park,Silver,Leisure
+Holiday/Caravan Park,Gold,Leisure
+Holiday/Caravan Park,Platinum,Leisure
+Guest/Boarding House,Bronze,Mainstream Hotels
+Guest/Boarding House,Silver,Mainstream Hotels
+Guest/Boarding House,Gold,Premium Hotels
+Guest/Boarding House,Platinum,Premium Hotels
+Bar Restaurant,Bronze,High Street Pubs/Bars
+Bar Restaurant,Silver,High Street Pubs/Bars
+Bar Restaurant,Gold,High Street Pubs/Bars
+Bar Restaurant,Platinum,High Street Pubs/Bars
+Bar,Bronze,High Street Pubs/Bars
+Bar,Silver,High Street Pubs/Bars
+Bar,Gold,High Street Pubs/Bars
+Bar,Platinum,High Street Pubs/Bars
+High Street pub,Bronze,High Street Pubs/Bars
+High Street pub,Silver,High Street Pubs/Bars
+High Street pub,Gold,High Street Pubs/Bars
+High Street pub,Platinum,High Street Pubs/Bars
+Large venue,Bronze,Leisure
+Large venue,Silver,Leisure
+Large venue,Gold,Leisure
+Large venue,Platinum,Leisure
+Community Pub,Bronze,Mainstream Drinking Pubs
+Community Pub,Silver,Mainstream Drinking Pubs
+Food Pub,Bronze,Mainstream Eating Pubs
+Food Pub,Silver,Mainstream Eating Pubs
+Hotel,Bronze,Mainstream Hotels
+Hotel,Silver,Mainstream Hotels
+Restaurant,Bronze,Mainstream Restaurants
+Restaurant,Silver,Mainstream Restaurants
+Nightclub,Bronze,Night Clubs
+Nightclub,Silver,Night Clubs
+Nightclub,Gold,Night Clubs
+Nightclub,Platinum,Night Clubs
+Community Pub,Gold,Premium Drinking Pubs
+Community Pub,Platinum,Premium Drinking Pubs
+Food Pub,Gold,Premium Eating Pubs
+Food Pub,Platinum,Premium Eating Pubs
+Hotel,Gold,Premium Hotels
+Hotel,Platinum,Premium Hotels
+Restaurant,Gold,Premium Restaurants
+Restaurant,Platinum,Premium Restaurants
+Educational,Silver,Student Unions
+Sports/Social Club,Bronze,Value Drinking
+Sports/Social Club,Silver,Value Drinking
+Sports/Social Club,Gold,Value Drinking
+Sports/Social Club,Platinum,Value Drinking
+Casual Dining Restaurant,Bronze,Mainstream Restaurants
+Casual Dining Restaurant,Silver,Mainstream Restaurants
+Casual Dining Restaurant,Gold,Premium Restaurants
+Casual Dining Restaurant,Platinum,Premium Restaurants
+Cafe/Delicatessen,Bronze,Mainstream Restaurants
+Cafe/Delicatessen,Silver,Mainstream Restaurants
+Cafe/Delicatessen,Gold,Premium Restaurants
+Cafe/Delicatessen,Platinum,Premium Restaurants

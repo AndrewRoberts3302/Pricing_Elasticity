@@ -1,0 +1,19 @@
+In this folder you need a data extract from James Bennett, and call the file:
+
+prices_table_to_use.csv
+
+You need to open the file using Notepad++
+
+The file will have pounds signs in and these need removing.
+
+Go to "search" and select "Replace"
+
+in the "Find what" section put a pound sign £, then click "Replace All"
+
+This will remove all pound signs in the file.
+
+Repeat the process for speech marks "
+
+Then when you read in the csv file, be sure to set the encoding to latin-1:
+
+dp = pd.read_csv("../b_Supplied_Data/prices_table_to_use.csv", parse_dates=["D_DateKey"], encoding='latin-1')
